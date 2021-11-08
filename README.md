@@ -22,9 +22,9 @@ Xilinx CoolRunner-II CPLD
 
 # Table of Contents
 
-1. [CPLD Learning Resources](https://github.com/mikeroyal//CPLD-Guide#)
+1. [CPLD Learning Resources](https://github.com/mikeroyal//CPLD-Guide#cpld-learning-resources)
 
-2. [CPLD Tools](https://github.com/mikeroyal//CPLD-Guide#)
+2. [CPLD Tools](https://github.com/mikeroyal//CPLD-Guide#clpd-tools)
 
 3. [OpenCL Development](https://github.com/mikeroyal/CPLD-Guide#opencl-development)
 
