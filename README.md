@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/140832376-371cbac1-ef03-4c07-8bbe-c40ea0b1a936.png">
   <br />
   Complex Programmable Logic Device (CPLD) Guide
 </h1>
@@ -9,12 +9,12 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/140832385-4b4c0be2-7bff-432a-86ce-127850b72284.png">
 <br />
 </p>
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/140832388-3e13fdfc-e850-4633-9ceb-805703f8f42b.png">
 <br />
 Xilinx CoolRunner-II CPLD
 </p>
